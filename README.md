@@ -1,4 +1,4 @@
-### Olá sou Guilherme Fiorot 👋
+### Olá sou Guilherme Fiorot, atualmente estou cursando Sistemas de Informação no IFES Campus Serra.
 
  <div>
   <a href="https://github.com/GuilhermeFiorot">
