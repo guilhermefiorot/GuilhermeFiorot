@@ -1,5 +1,4 @@
-### Hi, I'm Guilherme Fiorot, graduated in Computer Technician at Federal Institute of Espirito Santo. 
-### Currently studying Bachelor in Information Systems at Federal Institute of Espirito Santo.
+### Hi, I'm Guilherme Fiorot, graduated in Computer Technician and studying Bachelor of Information Systems, both at Federal Institute of Education, Science and Technology of Espírito Santo.
 
  <div>
   <a href="https://github.com/GuilhermeFiorot">
