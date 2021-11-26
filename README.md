@@ -1,4 +1,5 @@
-### Hi, I'm Guilherme Fiorot, I'm currently studying Information Systems at IFES Campus Serra.
+### Hi, I'm Guilherme Fiorot, graduated in Computer Technician at Federal Institute of Espirito Santo. 
+### Currently studying Bachelor in Information Systems at Federal Institute of Espirito Santo.
 
  <div>
   <a href="https://github.com/GuilhermeFiorot">
