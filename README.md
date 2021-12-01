@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [I'm Guilherme, graduated in Computer Technician and studying Bachelor of Information Systems, both at Federal Institute of Education, Science and Technology of Espírito Santo.](https://www.linkedin.com/in/guilhermefirmefiorot)!
+# Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Guilherme](https://www.linkedin.com/in/guilhermefirmefiorot)!
 
 <a href="https://www.linkedin.com/in/guilhermefirmefiorot">
   <img align="left" alt="LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -19,7 +19,7 @@
 I believe that we are always in constant learning and, therefore, I am currently looking for new challenges in the technology area, especially in the development part.
 </br></br>
 
-```
+```Js
 import Developer from 'GuilhermeFiorot';
 
 class Bio extends Developer {
