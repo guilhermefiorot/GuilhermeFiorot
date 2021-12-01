@@ -1,26 +1,42 @@
-### I'm Guilherme Fiorot, graduated in Computer Technician and studying Bachelor of Information Systems, both at Federal Institute of Education, Science and Technology of Espírito Santo.
+# Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [I'm Guilherme, graduated in Computer Technician and studying Bachelor of Information Systems, both at Federal Institute of Education, Science and Technology of Espírito Santo.](https://www.linkedin.com/in/guilhermefirmefiorot)!
 
- <div>
-  <a href="https://github.com/GuilhermeFiorot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFiorot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<a href="https://www.linkedin.com/in/guilhermefirmefiorot">
+  <img align="left" alt="LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-<div style="display: inline_block"><br>
-   Learning:
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-</div>
-<div> 
- <br>
-  <a href="https://instagram.com/guilhermefirme1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/GuilhermeFirme" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/G4YUjg82QA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermefirme3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-firme-fiorot-7792891b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+<a href="https://github.com/guilhermefiorot">
+  <img align="left" alt="Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://pt.stackoverflow.com/users/208502/guilherme-firme">
+  <img align="left" alt="Stack Overflow" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/stackoverflow.svg" />
+</a>
+
+<a href="mailto:guilhermefirme3@gmail.com">
+  <img align="left" alt="e-mail" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mail-dot-ru.svg" />
+</a>
+</br></br>
+I believe that we are always in constant learning and, therefore, I am currently looking for new challenges in the technology area, especially in the development part.
+</br></br>
+
+```
+import Developer from 'GuilhermeFiorot';
+
+class Bio extends Developer {
+  name     = 'Guilherme Firme Fiorot';
+  title    = 'Developer';
+  location = 'Serra-ES, Brazil';
+}
+
+class Skills extends Developer {
+  languages  = ['Python', 'Java', 'HTML5', 'CSS3', 'JavaScript'];
+  databases  = ['MySQL', 'SQL Server', 'Oracle', 'PostgreSQL'];
+  frameworks = ['Django', 'Flask', 'Scikit-learn', 'Pandas', 'Numpy', 'Matplotlib'];
+}
+
+class Contacts extends Developer {
+  e-mail  = ['guilhermefirme3@gmail.com'];
+```
+
+
+Check the repositories section to see my efforts! Hope, you will enjoy it!
