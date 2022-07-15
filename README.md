@@ -16,7 +16,7 @@
   <img align="left" alt="e-mail" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mail-dot-ru.svg" />
 </a>
 </br></br>
-I believe that we are always in constant learning and, therefore, I am currently looking for new challenges in the technology area, especially in the development and data science part.
+I believe that we are always in constant learning and, therefore, I am currently looking for new challenges in the technology area, especially in the development and data engineer part.
 </br></br>
 
 ```Js
@@ -24,14 +24,15 @@ import Developer from 'GuilhermeFiorot';
 
 class Bio extends Developer {
   name     = 'Guilherme Firme Fiorot';
-  title    = 'Developer', 'Data Scientist';
-  location = 'Serra-ES, Brazil';
+  title    = 'Developer', 'Data Engineer';
+  location = 'Serra-ES, Brazil','Budapest, Hungary';
 }
 
 class Skills extends Developer {
-  languages  = ['Python', 'Java', 'HTML5', 'CSS3', 'JavaScript'];
-  databases  = ['MySQL', 'SQL Server', 'Oracle', 'PostgreSQL'];
-  frameworks = ['Django', 'Flask', 'Scikit-learn', 'Pandas', 'Numpy', 'Matplotlib'];
+  languages  = ['Python'];
+  databases  = ['MySQL', 'SQL Server', 'PostgreSQL'];
+  frameworks = ['Flask', 'Pandas', 'Numpy', 'PySpark'];
+  cloud = ['Azure Databricks', 'Azure Data Factory', 'Azure Synapse', 'Azure Data Lake', 'Azure CosmosDB'];
 }
 
 class Contacts extends Developer {
