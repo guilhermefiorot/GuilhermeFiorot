@@ -32,7 +32,8 @@ class Skills extends Developer {
   languages  = ['Python'];
   databases  = ['MySQL', 'SQL Server', 'PostgreSQL'];
   frameworks = ['Flask', 'Pandas', 'Numpy', 'PySpark'];
-  cloud = ['Azure Databricks', 'Azure Data Factory', 'Azure Data Lake', 'Azure Storage Account'];
+  cloud = ['Microsoft Azure'];
+  Azure Services = ['Databricks', 'Data Factory', 'Data Lake', 'Storage Account'];
 }
 
 class Contacts extends Developer {
