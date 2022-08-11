@@ -25,7 +25,7 @@ import Developer from 'GuilhermeFiorot';
 class Bio extends Developer {
   name     = 'Guilherme Firme Fiorot';
   title    = 'Developer', 'Data Engineer';
-  location = 'Serra-ES, Brazil','Budapest, Hungary';
+  location = 'Serra-ES, Brazil';
 }
 
 class Skills extends Developer {
