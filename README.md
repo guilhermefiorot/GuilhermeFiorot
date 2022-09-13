@@ -24,14 +24,14 @@ import Developer from 'GuilhermeFiorot';
 
 class Bio extends Developer {
   name     = 'Guilherme Firme Fiorot';
-  title    = 'Developer', 'Data Engineer';
+  title    = 'Python Developer', 'Data Engineer';
   location = 'Serra-ES, Brazil';
 }
 
 class Skills extends Developer {
   languages  = ['Python','SQL'];
   databases  = ['MySQL', 'SQL Server', 'PostgreSQL'];
-  frameworks = ['Flask', 'Pandas', 'Numpy', 'PySpark','Spark'];
+  frameworks = ['Flask', 'Pandas', 'Numpy', 'PySpark','Spark', 'SQLAlchemy'];
   cloud = ['Microsoft Azure'];
   Azure Services = ['Databricks', 'Data Factory', 'Data Lake', 'Storage Account'];
 }
