@@ -31,9 +31,9 @@ class Bio extends Developer {
 class Skills extends Developer {
   languages  = ['Python','SQL'];
   databases  = ['MySQL', 'SQL Server', 'PostgreSQL'];
-  frameworks = ['Flask', 'Pandas', 'Numpy', 'PySpark','Spark', 'SQLAlchemy'];
+  frameworks = ['Flask', 'Django', 'PySpark', 'SQLAlchemy'];
   cloud = ['Microsoft Azure'];
-  Azure Services = ['Databricks', 'Data Factory', 'Data Lake', 'Storage Account'];
+  Azure Services = ['APP Service', 'Databricks', 'Data Factory', 'Data Lake', 'Storage Account'];
 }
 
 class Contacts extends Developer {
