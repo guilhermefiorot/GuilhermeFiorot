@@ -26,20 +26,21 @@ class Bio extends Developer {
   name     = 'Guilherme Firme Fiorot';
   title    = 'Data Engineer', 'Backend Developer';
   location = 'Vitoria-ES, Brazil';
-  from = 'Vitoria-ES, Brazil';
+  from     = 'Vitoria-ES, Brazil';
 }
 
 class Skills extends Developer {
   languages  = ['Python','Java','HTML','CSS','JavaScript'];
   databases  = ['SQL','NoSQL];
   frameworks = ['Flask', 'Django', 'FastAPI', 'Apache Kafka', 'Apache Spark'];
-  cloud = ['Microsoft Azure'];
+  cloud      = ['Microsoft Azure'];
   Azure Services = ['APP Service', 'Databricks', 'Data Factory', 'Data Lake', 'Storage Account', 'Event Hubs'];
 }
 
 class Contacts extends Developer {
-  e-mail  = ['guilhermefirme1@gmail.com'];
   linkedin  = ['www.linkedin.com/in/guilhermefirmefiorot/'];
+  e-mail    = ['guilhermefirme1@gmail.com'];
+}
   
 ```
 
