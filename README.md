@@ -24,21 +24,21 @@ import Developer from 'GuilhermeFiorot';
 
 class Bio extends Developer {
   name     = 'Guilherme Firme Fiorot';
-  title    = 'Python Developer', 'Data Engineer';
-  location = 'Budapest, Hungary';
-  from = 'Serra-ES, Brazil';
+  title    = 'Data Engineer', 'Backend Developer';
+  location = 'Vitoria-ES, Brazil';
+  from = 'Vitoria-ES, Brazil';
 }
 
 class Skills extends Developer {
-  languages  = ['Python','SQL'];
-  databases  = ['MySQL', 'SQL Server', 'PostgreSQL'];
-  frameworks = ['Flask', 'Django', 'PySpark', 'SQLAlchemy'];
+  languages  = ['Python','Java','HTML','CSS','JavaScript'];
+  databases  = ['SQL','NoSQL];
+  frameworks = ['Flask', 'Django', 'FastAPI', 'Apache Kafka', 'Apache Spark'];
   cloud = ['Microsoft Azure'];
-  Azure Services = ['APP Service', 'Databricks', 'Data Factory', 'Data Lake', 'Storage Account'];
+  Azure Services = ['APP Service', 'Databricks', 'Data Factory', 'Data Lake', 'Storage Account', 'Event Hubs'];
 }
 
 class Contacts extends Developer {
-  e-mail  = ['guilhermefirme3@gmail.com'];
+  e-mail  = ['guilhermefirme1@gmail.com'];
   linkedin  = ['www.linkedin.com/in/guilhermefirmefiorot/'];
   
 ```
