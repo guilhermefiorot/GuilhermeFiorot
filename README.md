@@ -16,8 +16,6 @@
   <img align="left" alt="e-mail" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mail-dot-ru.svg" />
 </a>
 </br></br>
-I believe that we are always in constant learning and, therefore, I am currently looking for new challenges in the development and data area.
-</br></br>
 
 ```Js
 import Developer from 'GuilhermeFiorot';
