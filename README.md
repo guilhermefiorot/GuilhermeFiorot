@@ -37,7 +37,7 @@ class Skills extends Developer {
 
 class Contacts extends Developer {
   linkedin  = ['www.linkedin.com/in/guilhermefirmefiorot/'];
-  e-mail    = ['guilhermefirme1@gmail.com'];
+  e-mail    = ['guilhermefirme3@gmail.com'];
 }
   
 ```
