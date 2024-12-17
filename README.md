@@ -21,15 +21,8 @@ import Developer from 'GuilhermeFiorot';
 
 class Bio extends Developer {
   name     = 'Guilherme Firme Fiorot';
-  title    = 'Backend Developer';
-  location = 'Vitoria-ES, Brazil';
-  from     = 'Vitoria-ES, Brazil';
-}
-
-class Skills extends Developer {
-  languages  = ['Python','Java','HTML','CSS','JS'];
-  databases  = ['SQL','NoSQL];
-  frameworks = ['Flask', 'Django', 'FastAPI'];
+  title    = 'Senior Backend Developer';
+  location = 'Vitoria - ES, Brazil';
 }
 
 class Contacts extends Developer {
@@ -38,6 +31,3 @@ class Contacts extends Developer {
 }
   
 ```
-
-
-Check the repositories section to see my efforts! Hope, you will enjoy it!
